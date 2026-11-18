@@ -49,6 +49,7 @@ Its communication should:
 **Brand introduction:**
 
 "Good skincare doesn't need a twelve-step routine or a luxury price tag. Noura Botanics creates everyday essentials with plant-based ingredients, telling you plainly what each product does and why it belongs in your routine"
+
 **Educational message:**
 
 "Not sure where to start with skincare? Building a routine can be simpler than you think."
