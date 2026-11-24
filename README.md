@@ -28,7 +28,7 @@ The brand focuses on simple, affordable everyday skincare, with approachable rou
 
 ### Email 1 – Welcome
 
-[Welcome Email](04-email-designs/email-01-welcome.png.png)
+![Welcome Email](04-email-designs/email-01-welcome.png.png)
 
 ### Email 2 – Skincare Basics
 
