@@ -28,15 +28,14 @@ The brand focuses on simple, affordable everyday skincare, with approachable rou
 
 ### Email 1 – Welcome
 
-![Welcome Email](04-email-designs/email-01-welcome.png)
+[Welcome Email](04-email-designs/email-01-welcome.png.png)
 
 ### Email 2 – Skincare Basics
 
-![Skincare Basics Email](04-email-designs/email-02-skincare-basics.png)
+![Skincare Basics Email](04-email-designs/email-02-skincare-basics.png.png)
 
 ### Email 3 – Product Discovery
-
-![Product Discovery Email](04-email-designs/email-03-product-discovery.png)
+![Product Discovery Email](04-email-designs/email-03-product-discovery.png.png)
 
 ## Project Deliverables
 
